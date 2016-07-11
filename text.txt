@@ -1,0 +1,7 @@
+I have UNIX. 
+
+I have GNU. 
+
+I have BSD. 
+
+I have GNU/Linux. 
